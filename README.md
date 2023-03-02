@@ -1,5 +1,5 @@
 <p>
-<img src="/home/gessyboy/Projets/style_github/GessyBoy/img/bannière.png" alt="styled_github" />
+<img src="/home/gessyboy/Projets/GessyBoy/img/bannière.png" alt="styled_github" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
