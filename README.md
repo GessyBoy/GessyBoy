@@ -1,5 +1,6 @@
 <p>
-<img src="https://github.com/GessyBoy/GessyBoy/blob/main/img/banni%C3%A8re.png" height="600" width="1000" alt="Connect with me:" href="https://linkedin.com/in/yohann-deletrez" target="blank"/>
+<img src="https://github.com/GessyBoy/GessyBoy/blob/main/img/banni%C3%A8re.png" height="600" width="1000" alt="Connect with me:" />
+  <a href="https://linkedin.com/in/yohann-deletrez" target="blank"></a>
 </p>
 
 
