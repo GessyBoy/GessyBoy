@@ -1,6 +1,6 @@
 <p>
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
-    <img src="https://github.com/GessyBoy/GessyBoy/blob/main/img/banni%C3%A8re.png" height="600" width="1000" alt="Connect with me:" />
+    <img src="https://github.com/GessyBoy/GessyBoy/blob/main/img/banniere.png" height="600" width="1000" alt="Connect with me:" />
   </a>
 </p>
 
