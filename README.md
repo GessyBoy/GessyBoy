@@ -2,7 +2,7 @@
 <img src="https://github.com/GessyBoy/GessyBoy/blob/main/img/banni%C3%A8re.png" height="600" width="1000"/>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3>Connect with me:</h3>
 <p>
 <a href="https://linkedin.com/in/yohann-deletrez" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yohann-deletrez" height="20" width="30" /></a>
 </p>
