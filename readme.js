@@ -19,4 +19,6 @@ Added the \`Mon 3 Jan 2022\`
 Last update on <#today_date>
 
 <#thebot_signing>
+
+A big thank you to @Melvynx
 `;
