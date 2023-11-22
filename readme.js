@@ -1,4 +1,4 @@
-### Hi there 👋
+module.exports = `### Hi there 👋
 
 ### Contact me
 
@@ -12,10 +12,11 @@
 
 <img src="https://profile-counter.glitch.me/GessyBoy/count.svg" />
 
-Added the `Mon 3 Jan 2022`
+Added the \`Mon 3 Jan 2022\`
 
-Last update on Wed Nov 22 2023
+Last update on <#today_date>
 
-**39 day before 2024 ⏱** days before new years
+<#day_before_new_years> days before new years
 
-🤖 This README.md is updated with wickedness, by Gabot ❤️
+<#gabot_signing>
+`;
