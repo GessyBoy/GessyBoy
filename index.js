@@ -21,6 +21,7 @@ function generateNewREADME() {
     day_before_new_years: getDBNWSentence(),
     today_date: getTodayDate(),
     gabot_signing: getGabotSigning(),
+    myself: getMySelf(),
   };
 
   Object.entries(identifierToUpdate).forEach(([key, value]) => {
@@ -53,9 +54,9 @@ function getMySelf() {
   // test if we are in a PAIR DAY
   return today.getDate() % 2 === 0
     ? Math.floor(Math.random() * 2)
-      ? 'penguin 🐧'
-      : 'bear 🐻'
-    : 'penguin bear 🐧🐻';
+      ? 'dragon 🐉'
+      : 'dog 🐶'
+    : 'dragon dog 🐉🐶';
 }
 
 function getDBNWSentence() {

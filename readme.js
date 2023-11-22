@@ -1,5 +1,7 @@
 module.exports = `### Hi there 👋
 
+<#myself>
+
 ### Contact me
 
 * [Mail](mailto:ydeletrez@gmail.com)
