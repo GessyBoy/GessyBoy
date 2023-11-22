@@ -14,7 +14,7 @@ I'm feel like a <#myself>
 
 <img src="https://profile-counter.glitch.me/GessyBoy/count.svg" />
 
-Added the \`WED 22 NOV 2023\`
+Added the \`Wed Nov 22 2023\`
 
 Last update on <#today_date>
 
