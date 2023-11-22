@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm feel like a brave dog 🐶
+I'm feel like a hungry dragon 🐉
 
 ### Contact me
 
@@ -18,6 +18,4 @@ Added the `Mon 3 Jan 2022`
 
 Last update on Wed Nov 22 2023
 
-**39 day before 2024 ⏱** days before new years
-
-🤖 This README.md is updated with wickedness, by Gabot ❤️
+🤖 This README.md is updated with wickedness, by thebot ❤️
