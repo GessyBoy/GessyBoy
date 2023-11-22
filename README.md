@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm feel like a brave dog 🐶
+
 ### Contact me
 
 * [Mail](mailto:ydeletrez@gmail.com)
@@ -12,7 +14,7 @@
 
 <img src="https://profile-counter.glitch.me/GessyBoy/count.svg" />
 
-Added the `Wed 22 Nov 2023`
+Added the `Mon 3 Jan 2022`
 
 Last update on Wed Nov 22 2023
 

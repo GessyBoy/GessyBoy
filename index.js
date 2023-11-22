@@ -20,7 +20,7 @@ function generateNewREADME() {
   const identifierToUpdate = {
     day_before_new_years: getDBNWSentence(),
     today_date: getTodayDate(),
-    gabot_signing: getGabotSigning(),
+    thebot_signing: getThebotSigning(),
     myself: getMySelf(),
   };
 
@@ -41,9 +41,9 @@ const moodByDay = {
   7: 'love',
 };
 
-function getGabotSigning() {
+function getThebotSigning() {
   const mood = moodByDay[today.getDay() + 1];
-  return `🤖 This README.md is updated with ${mood}, by Gabot ❤️`;
+  return `🤖 This README.md is updated with ${mood}, by thebot ❤️`;
 }
 
 function getTodayDate() {
@@ -54,9 +54,9 @@ function getMySelf() {
   // test if we are in a PAIR DAY
   return today.getDate() % 2 === 0
     ? Math.floor(Math.random() * 2)
-      ? 'dragon 🐉'
-      : 'dog 🐶'
-    : 'dragon dog 🐉🐶';
+      ? 'hungry dragon 🐉'
+      : 'brave dog 🐶'
+    : 'hungry dragon and brave dog 🐉🐶';
 }
 
 function getDBNWSentence() {

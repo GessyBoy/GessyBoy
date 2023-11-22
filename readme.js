@@ -1,6 +1,6 @@
 module.exports = `### Hi there 👋
 
-<#myself>
+I'm feel like a <#myself>
 
 ### Contact me
 
@@ -18,7 +18,5 @@ Added the \`Mon 3 Jan 2022\`
 
 Last update on <#today_date>
 
-<#day_before_new_years> days before new years
-
-<#gabot_signing>
+<#thebot_signing>
 `;
