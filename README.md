@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm feel like a brave dog 🐶
+I'm feel like a hungry dragon and brave dog 🐉🐶
 
 ### Contact me
 
@@ -10,15 +10,18 @@ I'm feel like a brave dog 🐶
 ### My projects
 
 
+- [Portfolio](https://my-portfolio-xjbz.vercel.app/)
+
+
 ### Visitor count
 
 <img src="https://profile-counter.glitch.me/GessyBoy/count.svg" />
 
 Added the `Wed Nov 22 2023`
 
-Last update on Wed Nov 22 2023
+Last update on Thu Nov 23 2023
 
-🤖 This README.md is updated with wickedness, by thebot ❤️
+🤖 This README.md is updated with cruelty, by thebot ❤️
 
 A big thank you to @Melvynx
 
