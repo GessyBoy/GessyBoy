@@ -27,7 +27,7 @@ jobs:
       - name: commit changes
         uses: EndBug/add-and-commit@v4
         with:
-          author_name: Yohann
+          author_name: GessyBoy
           author_email: ydeletrez@gmail.com
           force: false
           signoff: false
