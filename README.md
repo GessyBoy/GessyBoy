@@ -11,8 +11,6 @@ I'm feel like a hungry dragon and brave dog 🐉🐶
 
 - [Portfolio](https://my-portfolio-xjbz.vercel.app/)
 
-- [Portfolio](https://my-portfolio-xjbz.vercel.app/)
-
 
 ### Visitor count
 
