@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm feel like a hungry dragon and brave dog 🐉🐶
+I'm feel like a hungry dragon 🐉
 
 ### Contact me
 
@@ -19,9 +19,9 @@ I'm feel like a hungry dragon and brave dog 🐉🐶
 
 Added the `Wed Nov 22 2023`
 
-Last update on Thu Dec 07 2023
+Last update on Fri Dec 08 2023
 
-🤖 This README.md is updated with cruelty, by thebot ❤️
+🤖 This README.md is updated with horror, by thebot ❤️
 
 A big thank you to @Melvynx
 
