@@ -1,6 +1,6 @@
 module.exports = `### Hi there 👋
 
-I'm feel like a <#myself>
+Quote of the day : "<#quote_of_the_day>"
 
 ### Contact me
 
@@ -27,7 +27,7 @@ A big thank you to @Melvynx
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
-    <img src="https://github.com/GessyBoy/GessyBoy/blob/main/img/banniere.png" height="500" width="800" alt="Connect with me:" />
+    <img src="https://github.com/GessyBoy/GessyBoy/blob/main/img/banniere.png" height="400" width="600" alt="Connect with me:" />
   </a>
 
 

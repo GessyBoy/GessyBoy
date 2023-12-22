@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm feel like a hungry dragon and brave dog 🐉🐶
+Quote of the day : "I always believed money couldn't buy happiness until I paid for my Internet subscription."
 
 ### Contact me
 
@@ -19,15 +19,15 @@ I'm feel like a hungry dragon and brave dog 🐉🐶
 
 Added the `Wed Nov 22 2023`
 
-Last update on Thu Nov 23 2023
+Last update on Fri Dec 22 2023
 
-🤖 This README.md is updated with cruelty, by thebot ❤️
+🤖 This README.md is updated with horror, by thebot ❤️
 
 A big thank you to @Melvynx
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
-    <img src="https://github.com/GessyBoy/GessyBoy/blob/main/img/banniere.png" height="500" width="800" alt="Connect with me:" />
+    <img src="https://github.com/GessyBoy/GessyBoy/blob/main/img/banniere.png" height="400" width="600" alt="Connect with me:" />
   </a>
 
 

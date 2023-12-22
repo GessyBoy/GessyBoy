@@ -22,6 +22,7 @@ function generateNewREADME() {
     today_date: getTodayDate(),
     thebot_signing: getThebotSigning(),
     myself: getMySelf(),
+    quote_of_the_day: getRandomQuote(),
   };
 
   Object.entries(identifierToUpdate).forEach(([key, value]) => {
@@ -57,6 +58,24 @@ function getMySelf() {
       ? 'hungry dragon 🐉'
       : 'brave dog 🐶'
     : 'hungry dragon and brave dog 🐉🐶';
+}
+
+function getRandomQuote() {
+  const quotes = [
+    "Computers do what you tell them, not what you want.",
+    "One day, I became famous... but the next day, no one remembered.",
+    "I'm not lazy, I'm in energy-saving mode.",
+    "If you can't explain something simply, you don't understand it well enough. Or you're dealing with a computer.",
+    "Life is too short to safely remove the USB device.",
+    "Wi-Fi is like love, invisible, but you know when it's not there.",
+    "I don't have a problem with authority, authority has a problem with me.",
+    "Life is like a computer; errors may occur, but it depends on how you manage them.",
+    "I always believed money couldn't buy happiness until I paid for my Internet subscription.",
+    "Some days, I feel like a JPEG file in a Word document."
+  ];
+
+  const randomIndex = Math.floor(Math.random() * quotes.length);
+  return quotes[randomIndex];
 }
 
 function getDBNWSentence() {
