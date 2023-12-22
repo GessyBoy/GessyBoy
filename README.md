@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I always believed money couldn't buy happiness until I paid for my Internet subscription."
+I'm feel like a hungry dragon and brave dog 🐉🐶
 
 ### Contact me
 
