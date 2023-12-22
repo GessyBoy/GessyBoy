@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm feel like a hungry dragon and brave dog 🐉🐶
+Quote of the day : "If you can't explain something simply, you don't understand it well enough. Or you're dealing with a computer."
 
 ### Contact me
 
