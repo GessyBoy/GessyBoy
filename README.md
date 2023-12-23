@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "If you can't explain something simply, you don't understand it well enough. Or you're dealing with a computer."
+Quote of the day : "Some days, I feel like a JPEG file in a Word document."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "If you can't explain something simply, you don't understand 
 
 Added the `Wed Nov 22 2023`
 
-Last update on Fri Dec 22 2023
+Last update on Sat Dec 23 2023
 
-🤖 This README.md is updated with horror, by thebot ❤️
+🤖 This README.md is updated with love, by thebot ❤️
 
 A big thank you to @Melvynx
 
