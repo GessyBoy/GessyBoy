@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "If you can't explain something simply, you don't understand it well enough. Or you're dealing with a computer."
+Quote of the day : "Computers do what you tell them, not what you want."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "If you can't explain something simply, you don't understand 
 
 Added the `Wed Nov 22 2023`
 
-Last update on Sun Dec 24 2023
+Last update on Mon Dec 25 2023
 
-🤖 This README.md is updated with hate, by thebot ❤️
+🤖 This README.md is updated with wickedness, by thebot ❤️
 
 A big thank you to @Melvynx
 
