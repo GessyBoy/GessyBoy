@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Computers do what you tell them, not what you want."
+Quote of the day : "I'm not lazy, I'm in energy-saving mode."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "Computers do what you tell them, not what you want."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Mon Dec 25 2023
+Last update on Tue Dec 26 2023
 
-🤖 This README.md is updated with wickedness, by thebot ❤️
+🤖 This README.md is updated with pleasure, by thebot ❤️
 
 A big thank you to @Melvynx
 
