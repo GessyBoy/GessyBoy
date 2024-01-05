@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I don't have a problem with authority, authority has a problem with me."
+Quote of the day : "Some days, I feel like a JPEG file in a Word document."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "I don't have a problem with authority, authority has a probl
 
 Added the `Wed Nov 22 2023`
 
-Last update on Thu Jan 04 2024
+Last update on Fri Jan 05 2024
 
-🤖 This README.md is updated with cruelty, by thebot ❤️
+🤖 This README.md is updated with horror, by thebot ❤️
 
 A big thank you to @Melvynx
 
