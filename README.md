@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I always believed money couldn't buy happiness until I paid for my Internet subscription."
+Quote of the day : "Computers do what you tell them, not what you want."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "I always believed money couldn't buy happiness until I paid 
 
 Added the `Wed Nov 22 2023`
 
-Last update on Sun Jan 07 2024
+Last update on Mon Jan 08 2024
 
-🤖 This README.md is updated with hate, by thebot ❤️
+🤖 This README.md is updated with wickedness, by thebot ❤️
 
 A big thank you to @Melvynx
 
