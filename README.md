@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Computers do what you tell them, not what you want."
+Quote of the day : "One day, I became famous... but the next day, no one remembered."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "Computers do what you tell them, not what you want."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Mon Jan 08 2024
+Last update on Tue Jan 09 2024
 
-🤖 This README.md is updated with wickedness, by thebot ❤️
+🤖 This README.md is updated with pleasure, by thebot ❤️
 
 A big thank you to @Melvynx
 
