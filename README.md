@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Life is too short to safely remove the USB device."
+Quote of the day : "Computers do what you tell them, not what you want."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "Life is too short to safely remove the USB device."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Wed Jan 10 2024
+Last update on Thu Jan 11 2024
 
-🤖 This README.md is updated with wickedness, by thebot ❤️
+🤖 This README.md is updated with cruelty, by thebot ❤️
 
 A big thank you to @Melvynx
 
