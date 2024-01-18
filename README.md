@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I'm not lazy, I'm in energy-saving mode."
+Quote of the day : "One day, I became famous... but the next day, no one remembered."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "I'm not lazy, I'm in energy-saving mode."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Wed Jan 17 2024
+Last update on Thu Jan 18 2024
 
-🤖 This README.md is updated with wickedness, by thebot ❤️
+🤖 This README.md is updated with cruelty, by thebot ❤️
 
 A big thank you to @Melvynx
 
