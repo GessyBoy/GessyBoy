@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I always believed money couldn't buy happiness until I paid for my Internet subscription."
+Quote of the day : "Wi-Fi is like love, invisible, but you know when it's not there."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "I always believed money couldn't buy happiness until I paid 
 
 Added the `Wed Nov 22 2023`
 
-Last update on Wed Jan 31 2024
+Last update on Thu Feb 01 2024
 
-🤖 This README.md is updated with wickedness, by thebot ❤️
+🤖 This README.md is updated with cruelty, by thebot ❤️
 
 A big thank you to @Melvynx
 
