@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Life is too short to safely remove the USB device."
+Quote of the day : "I don't have a problem with authority, authority has a problem with me."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "Life is too short to safely remove the USB device."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Sat Feb 03 2024
+Last update on Sun Feb 04 2024
 
-🤖 This README.md is updated with love, by thebot ❤️
+🤖 This README.md is updated with hate, by thebot ❤️
 
 A big thank you to @Melvynx
 
