@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I don't have a problem with authority, authority has a problem with me."
+Quote of the day : "Life is too short to safely remove the USB device."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "I don't have a problem with authority, authority has a probl
 
 Added the `Wed Nov 22 2023`
 
-Last update on Sun Feb 04 2024
+Last update on Mon Feb 05 2024
 
-🤖 This README.md is updated with hate, by thebot ❤️
+🤖 This README.md is updated with wickedness, by thebot ❤️
 
 A big thank you to @Melvynx
 
