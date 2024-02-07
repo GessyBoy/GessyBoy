@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Some days, I feel like a JPEG file in a Word document."
+Quote of the day : "Wi-Fi is like love, invisible, but you know when it's not there."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "Some days, I feel like a JPEG file in a Word document."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Tue Feb 06 2024
+Last update on Wed Feb 07 2024
 
-🤖 This README.md is updated with pleasure, by thebot ❤️
+🤖 This README.md is updated with wickedness, by thebot ❤️
 
 A big thank you to @Melvynx
 
