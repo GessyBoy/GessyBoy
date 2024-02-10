@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I don't have a problem with authority, authority has a problem with me."
+Quote of the day : "One day, I became famous... but the next day, no one remembered."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "I don't have a problem with authority, authority has a probl
 
 Added the `Wed Nov 22 2023`
 
-Last update on Fri Feb 09 2024
+Last update on Sat Feb 10 2024
 
-🤖 This README.md is updated with horror, by thebot ❤️
+🤖 This README.md is updated with love, by thebot ❤️
 
 A big thank you to @Melvynx
 
