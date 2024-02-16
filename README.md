@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Life is too short to safely remove the USB device."
+Quote of the day : "Wi-Fi is like love, invisible, but you know when it's not there."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "Life is too short to safely remove the USB device."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Thu Feb 15 2024
+Last update on Fri Feb 16 2024
 
-🤖 This README.md is updated with cruelty, by thebot ❤️
+🤖 This README.md is updated with horror, by thebot ❤️
 
 A big thank you to @Melvynx
 
