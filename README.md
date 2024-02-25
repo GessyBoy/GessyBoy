@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I always believed money couldn't buy happiness until I paid for my Internet subscription."
+Quote of the day : "Life is like a computer; errors may occur, but it depends on how you manage them."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "I always believed money couldn't buy happiness until I paid 
 
 Added the `Wed Nov 22 2023`
 
-Last update on Sat Feb 24 2024
+Last update on Sun Feb 25 2024
 
-🤖 This README.md is updated with love, by thebot ❤️
+🤖 This README.md is updated with hate, by thebot ❤️
 
 A big thank you to @Melvynx
 
