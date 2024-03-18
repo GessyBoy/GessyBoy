@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Some days, I feel like a JPEG file in a Word document."
+Quote of the day : "I don't have a problem with authority, authority has a problem with me."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "Some days, I feel like a JPEG file in a Word document."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Sun Mar 17 2024
+Last update on Mon Mar 18 2024
 
-🤖 This README.md is updated with hate, by thebot ❤️
+🤖 This README.md is updated with wickedness, by thebot ❤️
 
 A big thank you to @Melvynx
 
