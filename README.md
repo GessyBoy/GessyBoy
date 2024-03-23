@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I don't have a problem with authority, authority has a problem with me."
+Quote of the day : "I always believed money couldn't buy happiness until I paid for my Internet subscription."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "I don't have a problem with authority, authority has a probl
 
 Added the `Wed Nov 22 2023`
 
-Last update on Fri Mar 22 2024
+Last update on Sat Mar 23 2024
 
-🤖 This README.md is updated with horror, by thebot ❤️
+🤖 This README.md is updated with love, by thebot ❤️
 
 A big thank you to @Melvynx
 
