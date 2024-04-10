@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I don't have a problem with authority, authority has a problem with me."
+Quote of the day : "If you can't explain something simply, you don't understand it well enough. Or you're dealing with a computer."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "I don't have a problem with authority, authority has a probl
 
 Added the `Wed Nov 22 2023`
 
-Last update on Tue Apr 09 2024
+Last update on Wed Apr 10 2024
 
-🤖 This README.md is updated with pleasure, by thebot ❤️
+🤖 This README.md is updated with wickedness, by thebot ❤️
 
 A big thank you to @Melvynx
 
