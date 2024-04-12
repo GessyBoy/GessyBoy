@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Life is like a computer; errors may occur, but it depends on how you manage them."
+Quote of the day : "I don't have a problem with authority, authority has a problem with me."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "Life is like a computer; errors may occur, but it depends on
 
 Added the `Wed Nov 22 2023`
 
-Last update on Thu Apr 11 2024
+Last update on Fri Apr 12 2024
 
-🤖 This README.md is updated with cruelty, by thebot ❤️
+🤖 This README.md is updated with horror, by thebot ❤️
 
 A big thank you to @Melvynx
 
