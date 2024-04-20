@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "If you can't explain something simply, you don't understand it well enough. Or you're dealing with a computer."
+Quote of the day : "One day, I became famous... but the next day, no one remembered."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "If you can't explain something simply, you don't understand 
 
 Added the `Wed Nov 22 2023`
 
-Last update on Fri Apr 19 2024
+Last update on Sat Apr 20 2024
 
-🤖 This README.md is updated with horror, by thebot ❤️
+🤖 This README.md is updated with love, by thebot ❤️
 
 A big thank you to @Melvynx
 
