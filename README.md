@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I'm not lazy, I'm in energy-saving mode."
+Quote of the day : "Wi-Fi is like love, invisible, but you know when it's not there."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "I'm not lazy, I'm in energy-saving mode."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Mon Apr 22 2024
+Last update on Tue Apr 23 2024
 
-🤖 This README.md is updated with wickedness, by thebot ❤️
+🤖 This README.md is updated with pleasure, by thebot ❤️
 
 A big thank you to @Melvynx
 
