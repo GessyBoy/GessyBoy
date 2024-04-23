@@ -4,8 +4,8 @@ Quote of the day : "Wi-Fi is like love, invisible, but you know when it's not th
 
 ### Contact me
 
-* [Mail](mailto:ydeletrez@gmail.com)
-* [Linkedin](https://www.linkedin.com/in/yohann-deletrez/)
+* [Mail](mailto:contact@toupa.fr)
+* [Linkedin](https://www.linkedin.com/company/toupa/)
 
 ### My projects
 
