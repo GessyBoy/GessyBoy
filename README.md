@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Life is too short to safely remove the USB device."
+Quote of the day : "Some days, I feel like a JPEG file in a Word document."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "Life is too short to safely remove the USB device."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Wed Apr 24 2024
+Last update on Thu Apr 25 2024
 
-🤖 This README.md is updated with wickedness, by thebot ❤️
+🤖 This README.md is updated with cruelty, by thebot ❤️
 
 A big thank you to @Melvynx
 
