@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Some days, I feel like a JPEG file in a Word document."
+Quote of the day : "Life is like a computer; errors may occur, but it depends on how you manage them."
 
 ### Contact me
 
@@ -32,4 +32,4 @@ A big thank you to @Melvynx
 
 
 ### My stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gessyboy&show_icons=true&locale=en&count_private=true&hide=html,css,scss,twig&theme=tokyonight" alt="GessyBoy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gessyboy&show_icons=true&locale=en&hide=html,css,scss,twig&theme=tokyonight" alt="GessyBoy" />
