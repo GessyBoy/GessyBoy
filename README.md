@@ -32,4 +32,4 @@ A big thank you to @Melvynx
 
 
 ### My stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gessyboy&show_icons=true&locale=en&hide=html,css,scss,twig&theme=tokyonight" alt="GessyBoy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gessyboy&show_icons=true&locale=en&count_private=true&hide=html,css,scss,twig&theme=tokyonight" alt="GessyBoy" />
