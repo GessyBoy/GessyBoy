@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Life is like a computer; errors may occur, but it depends on how you manage them."
+Quote of the day : "If you can't explain something simply, you don't understand it well enough. Or you're dealing with a computer."
 
 ### Contact me
 
@@ -32,4 +32,4 @@ A big thank you to @Melvynx
 
 
 ### My stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gessyboy&show_icons=true&locale=en&count_private=true&hide=html,css,scss,twig&theme=tokyonight" alt="GessyBoy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gessyboy&show_icons=true&locale=en&hide=html,css,scss,twig&theme=tokyonight" alt="GessyBoy" />
