@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I'm not lazy, I'm in energy-saving mode."
+Quote of the day : "I don't have a problem with authority, authority has a problem with me."
 
 ### Contact me
 
@@ -19,9 +19,9 @@ Quote of the day : "I'm not lazy, I'm in energy-saving mode."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Sat May 11 2024
+Last update on Sun May 12 2024
 
-🤖 This README.md is updated with love, by thebot ❤️
+🤖 This README.md is updated with hate, by thebot ❤️
 
 A big thank you to @Melvynx
 
