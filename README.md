@@ -4,8 +4,8 @@ Quote of the day : "I don't have a problem with authority, authority has a probl
 
 ### Contact me
 
-* [Mail](mailto:contact@toupa.fr)
-* [Linkedin](https://www.linkedin.com/company/toupa/)
+* [Mail](mailto:ydeletrez@gmail.com)
+* [Linkedin](https://www.linkedin.com/in/yohann-deletrez/)
 
 ### My projects
 
@@ -23,8 +23,10 @@ Last update on Tue Jun 04 2024
 
 🤖 This README.md is updated with pleasure, by thebot ❤️
 
+A big thank you to @Melvynx
 
-  <a href="https://www.linkedin.com/company/toupa/" target="_blank">
+
+  <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
     <img src="https://github.com/GessyBoy/GessyBoy/blob/main/img/banniere.png" height="400" width="600" alt="Connect with me:" />
   </a>
 
