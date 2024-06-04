@@ -1,14 +1,17 @@
 ### Hi there 👋
 
-Quote of the day : "I always believed money couldn't buy happiness until I paid for my Internet subscription."
+Quote of the day : "Life is like a computer; errors may occur, but it depends on how you manage them."
+
+### My freelance developer site creation
+
+- [Website Creation]<a href="https://www.toupa.fr/" target="_blank">(Toupa)</a>
 
 ### Contact me
 
-* [Mail](mailto:ydeletrez@gmail.com)
-* [Linkedin](https://www.linkedin.com/in/yohann-deletrez/)
+* [Mail](mailto:contact@toupa.fr)
+* [Linkedin](https://www.linkedin.com/company/toupa/)
 
-### My projects
-
+### My portfolio
 
 - [Portfolio](https://my-portfolio-xjbz.vercel.app/)
 
@@ -17,13 +20,12 @@ Quote of the day : "I always believed money couldn't buy happiness until I paid 
 
 <img src="https://profile-counter.glitch.me/GessyBoy/count.svg" />
 
+
 Added the `Wed Nov 22 2023`
 
 Last update on Tue Jun 04 2024
 
 🤖 This README.md is updated with pleasure, by thebot ❤️
-
-A big thank you to @Melvynx
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
