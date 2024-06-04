@@ -44,7 +44,7 @@ const moodByDay = {
 
 function getThebotSigning() {
   const mood = moodByDay[today.getDay() + 1];
-  return `🤖 This README.md is updated with ${mood}, by thebot ❤️`;
+  return `🤖 This README.md is updated with ${mood}, by the bot ❤️`;
 }
 
 function getTodayDate() {
