@@ -1,20 +1,14 @@
 ### Hi there 👋
 
-Quote of the day : "I don't have a problem with authority, authority has a problem with me."
-
-
-### My website creation business : 
-
-- [Website creation](https://www.toupa.fr/)
-  
+Quote of the day : "I always believed money couldn't buy happiness until I paid for my Internet subscription."
 
 ### Contact me
 
 * [Mail](mailto:ydeletrez@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/yohann-deletrez/)
-  
 
-### My portfolio
+### My projects
+
 
 - [Portfolio](https://my-portfolio-xjbz.vercel.app/)
 
@@ -22,7 +16,6 @@ Quote of the day : "I don't have a problem with authority, authority has a probl
 ### Visitor count
 
 <img src="https://profile-counter.glitch.me/GessyBoy/count.svg" />
-
 
 Added the `Wed Nov 22 2023`
 
