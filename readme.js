@@ -2,13 +2,16 @@ module.exports = `### Hi there 👋
 
 Quote of the day : "<#quote_of_the_day>"
 
+### My freelance developer site creation
+
+- [Website Creation]<a href="https://www.toupa.fr/" target="_blank">(Toupa)</a>
+
 ### Contact me
 
-* [Mail](mailto:ydeletrez@gmail.com)
-* [Linkedin](https://www.linkedin.com/in/yohann-deletrez/)
+* [Mail](mailto:contact@toupa.fr)
+* [Linkedin](https://www.linkedin.com/company/toupa/)
 
-### My projects
-
+### My portfolio
 
 - [Portfolio](https://my-portfolio-xjbz.vercel.app/)
 
@@ -17,13 +20,12 @@ Quote of the day : "<#quote_of_the_day>"
 
 <img src="https://profile-counter.glitch.me/GessyBoy/count.svg" />
 
+
 Added the \`Wed Nov 22 2023\`
 
 Last update on <#today_date>
 
 <#thebot_signing>
-
-A big thank you to @Melvynx
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
