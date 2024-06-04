@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Quote of the day : "Life is like a computer; errors may occur, but it depends on how you manage them."
+Quote of the day : "I don't have a problem with authority, authority has a problem with me."
 
 ### My freelance developer site creation
 
-- [Website Creation]<a href="https://www.toupa.fr/" target="_blank">(Toupa)</a>
+- <a href="https://www.toupa.fr/" target="_blank" alt="Website Conection">Toupa</a>
 
 ### Contact me
 
