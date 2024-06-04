@@ -2,13 +2,19 @@
 
 Quote of the day : "I don't have a problem with authority, authority has a problem with me."
 
+
+### My website creation business : 
+
+- [Website creation](https://www.toupa.fr/)
+  
+
 ### Contact me
 
 * [Mail](mailto:ydeletrez@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/yohann-deletrez/)
+  
 
-### My projects
-
+### My portfolio
 
 - [Portfolio](https://my-portfolio-xjbz.vercel.app/)
 
@@ -16,6 +22,7 @@ Quote of the day : "I don't have a problem with authority, authority has a probl
 ### Visitor count
 
 <img src="https://profile-counter.glitch.me/GessyBoy/count.svg" />
+
 
 Added the `Wed Nov 22 2023`
 
