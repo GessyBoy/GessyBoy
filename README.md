@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Life is like a computer; errors may occur, but it depends on how you manage them."
+Quote of the day : "Some days, I feel like a JPEG file in a Word document."
 
 ### My freelance developer site creation
 
@@ -23,9 +23,9 @@ Quote of the day : "Life is like a computer; errors may occur, but it depends on
 
 Added the `Wed Nov 22 2023`
 
-Last update on Sat Jun 15 2024
+Last update on Sun Jun 16 2024
 
-🤖 This README.md is updated with love, by the bot ❤️
+🤖 This README.md is updated with hate, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
