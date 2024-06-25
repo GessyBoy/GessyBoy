@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "One day, I became famous... but the next day, no one remembered."
+Quote of the day : "Some days, I feel like a JPEG file in a Word document."
 
 ### My freelance developer site creation
 
@@ -23,9 +23,9 @@ Quote of the day : "One day, I became famous... but the next day, no one remembe
 
 Added the `Wed Nov 22 2023`
 
-Last update on Mon Jun 24 2024
+Last update on Tue Jun 25 2024
 
-🤖 This README.md is updated with wickedness, by the bot ❤️
+🤖 This README.md is updated with pleasure, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
