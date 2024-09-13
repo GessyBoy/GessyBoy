@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Wi-Fi is like love, invisible, but you know when it's not there."
+Quote of the day : "One day, I became famous... but the next day, no one remembered."
 
 ### My freelance developer site creation
 
@@ -23,9 +23,9 @@ Quote of the day : "Wi-Fi is like love, invisible, but you know when it's not th
 
 Added the `Wed Nov 22 2023`
 
-Last update on Thu Sep 12 2024
+Last update on Fri Sep 13 2024
 
-🤖 This README.md is updated with cruelty, by the bot ❤️
+🤖 This README.md is updated with horror, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
