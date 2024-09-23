@@ -31,8 +31,4 @@ Last update on <#today_date>
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
     <img src="https://github.com/GessyBoy/GessyBoy/blob/main/img/banniere.png" height="400" width="600" alt="Connect with me:" />
   </a>
-
-
-### My stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gessyboy&show_icons=true&locale=en&hide=html,css,scss,twig&theme=tokyonight" alt="GessyBoy" />
 `;
