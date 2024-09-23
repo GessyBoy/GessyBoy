@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I don't have a problem with authority, authority has a problem with me."
+Quote of the day : "Some days, I feel like a JPEG file in a Word document."
 
 ### My freelance developer site creation
 
@@ -31,7 +31,3 @@ Last update on Mon Sep 23 2024
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
     <img src="https://github.com/GessyBoy/GessyBoy/blob/main/img/banniere.png" height="400" width="600" alt="Connect with me:" />
   </a>
-
-
-### My stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gessyboy&show_icons=true&locale=en&hide=html,css,scss,twig&theme=tokyonight" alt="GessyBoy" />
