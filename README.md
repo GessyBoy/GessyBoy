@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Wi-Fi is like love, invisible, but you know when it's not there."
+Quote of the day : "I don't have a problem with authority, authority has a problem with me."
 
 ### My freelance developer site creation
 
@@ -23,9 +23,9 @@ Quote of the day : "Wi-Fi is like love, invisible, but you know when it's not th
 
 Added the `Wed Nov 22 2023`
 
-Last update on Tue Oct 29 2024
+Last update on Wed Oct 30 2024
 
-🤖 This README.md is updated with pleasure, by the bot ❤️
+🤖 This README.md is updated with wickedness, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
