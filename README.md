@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Computers do what you tell them, not what you want."
+Quote of the day : "I don't have a problem with authority, authority has a problem with me."
 
 ### My freelance developer site creation
 
@@ -23,9 +23,9 @@ Quote of the day : "Computers do what you tell them, not what you want."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Mon Dec 23 2024
+Last update on Tue Dec 24 2024
 
-🤖 This README.md is updated with wickedness, by the bot ❤️
+🤖 This README.md is updated with pleasure, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
