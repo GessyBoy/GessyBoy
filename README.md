@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "One day, I became famous... but the next day, no one remembered."
+Quote of the day : "Wi-Fi is like love, invisible, but you know when it's not there."
 
 ### My freelance developer site creation
 
@@ -23,9 +23,9 @@ Quote of the day : "One day, I became famous... but the next day, no one remembe
 
 Added the `Wed Nov 22 2023`
 
-Last update on Wed Jan 15 2025
+Last update on Thu Jan 16 2025
 
-🤖 This README.md is updated with wickedness, by the bot ❤️
+🤖 This README.md is updated with cruelty, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
