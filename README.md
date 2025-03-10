@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "One day, I became famous... but the next day, no one remembered."
+Quote of the day : "I don't have a problem with authority, authority has a problem with me."
 
 ### My freelance developer site creation
 
@@ -23,9 +23,9 @@ Quote of the day : "One day, I became famous... but the next day, no one remembe
 
 Added the `Wed Nov 22 2023`
 
-Last update on Sun Mar 09 2025
+Last update on Mon Mar 10 2025
 
-🤖 This README.md is updated with hate, by the bot ❤️
+🤖 This README.md is updated with wickedness, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
