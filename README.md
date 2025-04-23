@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Wi-Fi is like love, invisible, but you know when it's not there."
+Quote of the day : "Life is too short to safely remove the USB device."
 
 ### My freelance developer site creation
 
@@ -23,9 +23,9 @@ Quote of the day : "Wi-Fi is like love, invisible, but you know when it's not th
 
 Added the `Wed Nov 22 2023`
 
-Last update on Tue Apr 22 2025
+Last update on Wed Apr 23 2025
 
-🤖 This README.md is updated with pleasure, by the bot ❤️
+🤖 This README.md is updated with wickedness, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
