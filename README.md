@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "If you can't explain something simply, you don't understand it well enough. Or you're dealing with a computer."
+Quote of the day : "Wi-Fi is like love, invisible, but you know when it's not there."
 
 ### My freelance developer site creation
 
@@ -23,9 +23,9 @@ Quote of the day : "If you can't explain something simply, you don't understand 
 
 Added the `Wed Nov 22 2023`
 
-Last update on Sat Jul 05 2025
+Last update on Sun Jul 06 2025
 
-🤖 This README.md is updated with love, by the bot ❤️
+🤖 This README.md is updated with hate, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
