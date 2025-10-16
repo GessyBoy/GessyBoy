@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Some days, I feel like a JPEG file in a Word document."
+Quote of the day : "Life is like a computer; errors may occur, but it depends on how you manage them."
 
 ### My freelance developer site creation
 
@@ -23,9 +23,9 @@ Quote of the day : "Some days, I feel like a JPEG file in a Word document."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Wed Oct 15 2025
+Last update on Thu Oct 16 2025
 
-🤖 This README.md is updated with wickedness, by the bot ❤️
+🤖 This README.md is updated with cruelty, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
