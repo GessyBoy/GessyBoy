@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "One day, I became famous... but the next day, no one remembered."
+Quote of the day : "Life is like a computer; errors may occur, but it depends on how you manage them."
 
 ### My freelance developer site creation
 
@@ -23,9 +23,9 @@ Quote of the day : "One day, I became famous... but the next day, no one remembe
 
 Added the `Wed Nov 22 2023`
 
-Last update on Mon Dec 22 2025
+Last update on Tue Dec 23 2025
 
-🤖 This README.md is updated with wickedness, by the bot ❤️
+🤖 This README.md is updated with pleasure, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
