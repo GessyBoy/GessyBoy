@@ -2,23 +2,13 @@ module.exports = `### Hi there 👋
 
 Quote of the day : "<#quote_of_the_day>"
 
-### My freelance developer site creation
-
-- <a href="https://www.toupa.fr/" target="_blank" alt="Website Conection">Toupa</a>
-
 ### Contact me
 
 * [Mail](mailto:contact@toupa.fr)
-* [Linkedin](https://www.linkedin.com/company/toupa/)
 
 ### My portfolio
 
 - [Portfolio](https://my-portfolio-xjbz.vercel.app/)
-
-
-### Visitor count
-
-<img src="https://profile-counter.glitch.me/GessyBoy/count.svg" />
 
 
 Added the \`Wed Nov 22 2023\`
