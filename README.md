@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I'm not lazy, I'm in energy-saving mode."
+Quote of the day : "Computers do what you tell them, not what you want."
 
 ### Contact me
 
@@ -13,9 +13,9 @@ Quote of the day : "I'm not lazy, I'm in energy-saving mode."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Sat Feb 14 2026
+Last update on Sun Feb 15 2026
 
-🤖 This README.md is updated with love, by the bot ❤️
+🤖 This README.md is updated with hate, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
