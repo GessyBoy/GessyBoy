@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "One day, I became famous... but the next day, no one remembered."
+Quote of the day : "If you can't explain something simply, you don't understand it well enough. Or you're dealing with a computer."
 
 ### Contact me
 
@@ -13,9 +13,9 @@ Quote of the day : "One day, I became famous... but the next day, no one remembe
 
 Added the `Wed Nov 22 2023`
 
-Last update on Sat Feb 21 2026
+Last update on Sun Feb 22 2026
 
-🤖 This README.md is updated with love, by the bot ❤️
+🤖 This README.md is updated with hate, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
