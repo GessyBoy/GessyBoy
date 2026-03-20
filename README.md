@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Life is too short to safely remove the USB device."
+Quote of the day : "I'm not lazy, I'm in energy-saving mode."
 
 ### Contact me
 
@@ -13,9 +13,9 @@ Quote of the day : "Life is too short to safely remove the USB device."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Thu Mar 19 2026
+Last update on Fri Mar 20 2026
 
-🤖 This README.md is updated with cruelty, by the bot ❤️
+🤖 This README.md is updated with horror, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
