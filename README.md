@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Life is like a computer; errors may occur, but it depends on how you manage them."
+Quote of the day : "If you can't explain something simply, you don't understand it well enough. Or you're dealing with a computer."
 
 ### Contact me
 
@@ -13,9 +13,9 @@ Quote of the day : "Life is like a computer; errors may occur, but it depends on
 
 Added the `Wed Nov 22 2023`
 
-Last update on Mon Mar 23 2026
+Last update on Tue Mar 24 2026
 
-🤖 This README.md is updated with wickedness, by the bot ❤️
+🤖 This README.md is updated with pleasure, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
