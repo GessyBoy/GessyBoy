@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Wi-Fi is like love, invisible, but you know when it's not there."
+Quote of the day : "Life is like a computer; errors may occur, but it depends on how you manage them."
 
 ### Contact me
 
@@ -13,9 +13,9 @@ Quote of the day : "Wi-Fi is like love, invisible, but you know when it's not th
 
 Added the `Wed Nov 22 2023`
 
-Last update on Thu Mar 26 2026
+Last update on Fri Mar 27 2026
 
-🤖 This README.md is updated with cruelty, by the bot ❤️
+🤖 This README.md is updated with horror, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
