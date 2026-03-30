@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I'm not lazy, I'm in energy-saving mode."
+Quote of the day : "Life is like a computer; errors may occur, but it depends on how you manage them."
 
 ### Contact me
 
@@ -13,9 +13,9 @@ Quote of the day : "I'm not lazy, I'm in energy-saving mode."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Sun Mar 29 2026
+Last update on Mon Mar 30 2026
 
-🤖 This README.md is updated with hate, by the bot ❤️
+🤖 This README.md is updated with wickedness, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
