@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I always believed money couldn't buy happiness until I paid for my Internet subscription."
+Quote of the day : "Some days, I feel like a JPEG file in a Word document."
 
 ### Contact me
 
@@ -13,9 +13,9 @@ Quote of the day : "I always believed money couldn't buy happiness until I paid 
 
 Added the `Wed Nov 22 2023`
 
-Last update on Mon Apr 13 2026
+Last update on Tue Apr 14 2026
 
-🤖 This README.md is updated with wickedness, by the bot ❤️
+🤖 This README.md is updated with pleasure, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
