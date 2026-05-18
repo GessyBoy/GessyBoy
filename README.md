@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "If you can't explain something simply, you don't understand it well enough. Or you're dealing with a computer."
+Quote of the day : "Life is like a computer; errors may occur, but it depends on how you manage them."
 
 ### Contact me
 
@@ -13,9 +13,9 @@ Quote of the day : "If you can't explain something simply, you don't understand 
 
 Added the `Wed Nov 22 2023`
 
-Last update on Sun May 17 2026
+Last update on Mon May 18 2026
 
-🤖 This README.md is updated with hate, by the bot ❤️
+🤖 This README.md is updated with wickedness, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
