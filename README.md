@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Life is like a computer; errors may occur, but it depends on how you manage them."
+Quote of the day : "I always believed money couldn't buy happiness until I paid for my Internet subscription."
 
 ### Contact me
 
@@ -13,9 +13,9 @@ Quote of the day : "Life is like a computer; errors may occur, but it depends on
 
 Added the `Wed Nov 22 2023`
 
-Last update on Mon May 18 2026
+Last update on Tue May 19 2026
 
-🤖 This README.md is updated with wickedness, by the bot ❤️
+🤖 This README.md is updated with pleasure, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
