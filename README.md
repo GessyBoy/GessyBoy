@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Some days, I feel like a JPEG file in a Word document."
+Quote of the day : "Life is too short to safely remove the USB device."
 
 ### Contact me
 
@@ -13,9 +13,9 @@ Quote of the day : "Some days, I feel like a JPEG file in a Word document."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Wed May 27 2026
+Last update on Thu May 28 2026
 
-🤖 This README.md is updated with wickedness, by the bot ❤️
+🤖 This README.md is updated with cruelty, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
