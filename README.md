@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "I always believed money couldn't buy happiness until I paid for my Internet subscription."
+Quote of the day : "Life is too short to safely remove the USB device."
 
 ### Contact me
 
@@ -13,9 +13,9 @@ Quote of the day : "I always believed money couldn't buy happiness until I paid 
 
 Added the `Wed Nov 22 2023`
 
-Last update on Tue Jun 23 2026
+Last update on Wed Jun 24 2026
 
-🤖 This README.md is updated with pleasure, by the bot ❤️
+🤖 This README.md is updated with wickedness, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
