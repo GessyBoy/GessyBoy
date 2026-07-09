@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Some days, I feel like a JPEG file in a Word document."
+Quote of the day : "I'm not lazy, I'm in energy-saving mode."
 
 ### Contact me
 
@@ -13,9 +13,9 @@ Quote of the day : "Some days, I feel like a JPEG file in a Word document."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Wed Jul 08 2026
+Last update on Thu Jul 09 2026
 
-🤖 This README.md is updated with wickedness, by the bot ❤️
+🤖 This README.md is updated with cruelty, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
