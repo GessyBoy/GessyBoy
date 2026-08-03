@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "One day, I became famous... but the next day, no one remembered."
+Quote of the day : "I'm not lazy, I'm in energy-saving mode."
 
 ### Contact me
 
@@ -13,9 +13,9 @@ Quote of the day : "One day, I became famous... but the next day, no one remembe
 
 Added the `Wed Nov 22 2023`
 
-Last update on Sun Aug 02 2026
+Last update on Mon Aug 03 2026
 
-🤖 This README.md is updated with hate, by the bot ❤️
+🤖 This README.md is updated with wickedness, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
