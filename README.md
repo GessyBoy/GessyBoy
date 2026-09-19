@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Computers do what you tell them, not what you want."
+Quote of the day : "Life is too short to safely remove the USB device."
 
 ### Contact me
 
@@ -13,9 +13,9 @@ Quote of the day : "Computers do what you tell them, not what you want."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Fri Sep 18 2026
+Last update on Sat Sep 19 2026
 
-🤖 This README.md is updated with horror, by the bot ❤️
+🤖 This README.md is updated with love, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
