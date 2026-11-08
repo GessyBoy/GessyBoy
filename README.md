@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quote of the day : "Computers do what you tell them, not what you want."
+Quote of the day : "I always believed money couldn't buy happiness until I paid for my Internet subscription."
 
 ### Contact me
 
@@ -13,9 +13,9 @@ Quote of the day : "Computers do what you tell them, not what you want."
 
 Added the `Wed Nov 22 2023`
 
-Last update on Sat Nov 07 2026
+Last update on Sun Nov 08 2026
 
-🤖 This README.md is updated with love, by the bot ❤️
+🤖 This README.md is updated with hate, by the bot ❤️
 
 
   <a href="https://linkedin.com/in/yohann-deletrez" target="_blank">
